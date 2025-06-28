@@ -13,10 +13,10 @@ const Services = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-6 col-sm-6">
-                        <SectionTitle title="Feel amazing about your oral health" subTitle="Services"/>
+                        <SectionTitle title="RCM and Communication Services for Dental Clinics" subTitle="Services"/>
                     </div>
                     <div className="col-lg-6 col-sm-6">
-                        <p className='service-title-text'>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                        <p className='service-title-text'>From patient reactivation and appointment confirmations to balance collections and 24/7 bilingual support, we handle the backend so your team can focus on care.</p>
                     </div>
                 </div>
 

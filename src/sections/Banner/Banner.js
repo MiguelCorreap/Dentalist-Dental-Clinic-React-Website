@@ -20,12 +20,12 @@ const Banner = () => {
                         <div className="row">
                             <div className="col-lg-6">
                                 <div className="banner-text" data-aos="fade-up" data-aos-duration="2000">
-                                    <h1>Entrust your smile to professionals</h1>
-                                    <p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                                    <h1>Automate Your Dental Clinic Operations</h1>
+                                    <p>We help U.S. dental clinics increase appointments and collect balances with AI-powered agents and real human support.</p>
 
                                     <div className="banner-bottom">
                                         <div className="theme-btn">
-                                            <Link to="/contact">Book an appointment</Link>
+                                            <Link to="/contact">Book Your Free Demo</Link>
                                         </div>
 
                                         <div className="banner-call">
